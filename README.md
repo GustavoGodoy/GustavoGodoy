@@ -10,4 +10,4 @@ My name is Gustavo and:
 > - 🎓 Currently studying Node.js and React, Information Systems student at FIAP.
 > - 🎉 Welcome to my Github Profile
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGodoy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGodoy)](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGodoy)
