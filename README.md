@@ -6,8 +6,8 @@
 
 My name is Gustavo and:
 > - 😃 I really like to learn
-> - 💻 I'm Working/Studying with FullStack Development Java
-> - 🎓 Currently studying Angular, Information Systems student at FIAP.
+> - 💻 I'm Working/Studying with Java Dev.
+> - 🎓 Currently studying Flutter, Kotlin, Information Systems student at FIAP.
 > - 🎉 Welcome to my Github Profile
 > - 👨‍💻 I.T Engineering Analyst Jr At Itaú Unibanco
 
