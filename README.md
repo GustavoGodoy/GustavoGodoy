@@ -12,4 +12,5 @@ My name is Gustavo and:
 > - 👨‍💻 I.T Engineering Analyst Jr At Itaú Unibanco
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGodoy)](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGodoy)
+
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoGodoy&show_icons=true&theme=synthwave)
