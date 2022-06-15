@@ -41,7 +41,9 @@ My name is Gustavo and:
 </div>
 
 ###
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <img src="https://github.com/GustavoGodoy/GustavoGodoy/blob/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
 
 ###
 <div align="center">
