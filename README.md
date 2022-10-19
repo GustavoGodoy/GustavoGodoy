@@ -7,9 +7,9 @@
 My name is Gustavo and:
 > - 😃 I really like to learn
 > - 💻 I'm Working/Studying with Java Development (Spring Framework).
-> - 🎓 Currently studying Flutter, Node, React Information Systems student at FIAP.
+> - 🎓 Currently studying Flutter, Node, Microsservices Information Systems student at FIAP.
 > - 🎉 Welcome to my Github Profile
-> - 👨‍💻 I.T Engineering Analyst Jr At Itaú Unibanco
+> - 👨‍🎓 FullStack Student At Jala University
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/GustavoGodoy/count.svg?"  />
