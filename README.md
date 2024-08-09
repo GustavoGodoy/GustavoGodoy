@@ -6,11 +6,10 @@
 
 My name is Gustavo and:
 > - 😃 I really like to learn
-> - 💻 I'm Working/Studying Back-end development with Quarkus, Spring, AWS, etc...
-> - 🎓 Currently studying Cloud Computing, Microsservices. Information Systems student at FIAP.
 > - 🎉 Welcome to my Github Profile
-> - 👨‍🎓 Mid-Level Java Developer At BMW as a ília partner. 
-> - 💻 Already had work experience with Java Spring, Quarkus, SQL, NoSQL, AWS and Microsservices.
+> - 👨‍🎓 Mid-Level Java Developer at BTG Pactual the largest investment bank in Latin America. 
+> - 📂 Former Software Engineer at BMW
+> - 💻 Already had work experience with Java Spring, Quarkus, SQL, NoSQL, React, Angular, AWS and Microsservices.
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/GustavoGodoy/count.svg?"  />
