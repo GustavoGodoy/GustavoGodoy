@@ -7,9 +7,9 @@
 My name is Gustavo and:
 > - 😃 I really like to learn
 > - 🎉 Welcome to my Github Profile
-> - 👨‍🎓 Mid-Level Java Developer at BTG Pactual the largest investment bank in Latin America. 
-> - 📂 Former Software Engineer at BMW
-> - 💻 Already had work experience with Java Spring, Quarkus, SQL, NoSQL, React, Angular, AWS and Microsservices.
+> - 👨‍🎓 Java Developer at BTG Pactual the largest investment bank in Latin America. 
+> - 📂 Former Software Engineer at BMW and Itaú
+> - 💻 Work experience with Java Spring, Quarkus, SQL, NoSQL, React, Angular, AWS and Microsservices.
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/GustavoGodoy/count.svg?"  />
